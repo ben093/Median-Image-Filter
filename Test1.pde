@@ -1,6 +1,4 @@
 /* test 1
-   Ben Borgstede
-   //borgstede093
    3/3/2016
 */
 
