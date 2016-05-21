@@ -37,7 +37,7 @@ PImage filterImage(PImage source, int matrixSize){
       target.set(m,n,c);
     }
   }
-  // Instead of above, could resize target and surface to seeminly just remove unprocessed pixels on border.
+  // Instead of above, could resize target and surface to seemingly just remove unprocessed pixels on border.
   
   // Get distance from current target point to setup for loop
   int distance = matrixSize/2;
